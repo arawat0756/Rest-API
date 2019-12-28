@@ -15,3 +15,7 @@ API URL:
 http://localhost:8000/movie     for all movie API
 http://localhost:8000/action    for action movie API
 http://localhost:8000/comedy    for comedy movie API
+
+
+admin usr :   admin
+password  : papa7579
